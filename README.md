@@ -6,3 +6,5 @@
 java  spring boot
 
 ##### API restful Permite acessar os dados de um banco de dados, fazer inclusão, edição e deletar dados.
+
+#### Para testar, clique em "codigo" escolha a opção de export desejado, após descompactar, importe na sua IDE preferida (Eclipse, Intellij, etc) faça a requisição utilizando o Postman.
